@@ -63,7 +63,7 @@ align-items: center;
 }
 
 #dsmovie-card-list {
-    padding: 40px 0;
+    padding: 40px 10px;
 
 }
 
@@ -86,13 +86,13 @@ align-items: center;
     align-items: center;
     justify-content: space-between;
     border-radius: 0 0 8px 8px;
-    height: 220px;
+    height: 160px;
 }
 
 .dsmovie-card-description h3 {
     font-size: 14px;
     font-weight: 700;
-    margin-bottom: 25px;
+    margin-bottom:10px;
     text-align: center;
 }
 
